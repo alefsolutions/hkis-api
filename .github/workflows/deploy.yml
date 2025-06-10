@@ -10,7 +10,7 @@ env:
   AWS_ACCOUNT_ID: ${{ secrets.AWS_ACCOUNT_ID }}
   ECR_REPOSITORY: hkis-api
   ECS_CLUSTER: hkis-cluster
-  ECS_SERVICE: hkis-api
+  ECS_SERVICE: hkis-api-service
   ECS_TASK_DEFINITION: hkis-api-task
   CONTAINER_NAME: hkis-api
 
