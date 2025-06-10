@@ -7,8 +7,7 @@ __pycache__/
 *.so
 
 # Environment variables and config
-.env
-.env.*
+# .env
 
 # Distribution / packaging
 .Python
